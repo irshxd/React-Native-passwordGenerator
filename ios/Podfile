@@ -53,3 +53,5 @@ target 'passwordGenerator' do
     )
   end
 end
+pod 'CocoaAsyncSocket'
+
